@@ -1,31 +1,29 @@
-# codepedia dark theme
+![Codepedia Dark Theme preview](./assets/codepedia.png)
 
-### dark theme for rest your eye and enjoyed for time you coding
+# Codepedia Dark Theme
 
-![codepediascreanshot](./assets/codepedia.png)
+A dark theme for Visual Studio Code, designed to be comfortable during long coding sessions.
 
-`font : Monaspace`
-`icon : Chalice Icon Theme`
-
-we are in develope this theme if you want sent **PR** to **project** **repository**
-
+| Specification | Details |
+| --- | --- |
+| Theme name | `codepdia` |
+| Type | Dark (`vs-dark`) |
+| Version | `2.3.0` |
+| Font | Monaspace |
+| Icon theme | Chalice Icon Theme |
 
 ## Color Palette
-```
-#0b0b0b
-#141413
-#1d1d1b
-#3f3e3b
-#615f5b
-#84817a
-#a6a29a
-#c8c3ba
-#eae4da
-#c63f3e
-#ed773c
-#9ed6df
-#eaa7c7
-#808bc5
-#245e55
-#eac119
-```
+
+| Color | Hex |
+| --- | --- |
+| Muted Black | `#1D1D1B` |
+| Seashell | `#EAE4DA` |
+| Lavender | `#808CB5` |
+| Tea | `#245E55` |
+| Mustard Yellow | `#EAC119` |
+| Pink Quartz | `#EAA7C7` |
+| Sky | `#9ED6DF` |
+| Tangerine | `#ED773C` |
+| Red Passion | `#C63F3E` |
+
+We are actively developing this theme. Contributions are welcome; feel free to open a pull request.
